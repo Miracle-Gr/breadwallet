@@ -1,0 +1,165 @@
+body {  
+    padding: 0;
+    margin: 0;
+    }
+    
+   
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}li{
+    list-style: none;
+    text-align: center;
+    font-size: .6cm;
+    justify-self: space-between;
+    display: contents;
+
+}
+.head-home{
+       text-align: center;
+       background-color: rgb(17, 17, 17);
+       padding-top: 2px;
+       position: fixed;
+       
+        width: 100%;
+        height: 25%;
+        background-size: cover;
+        background-position: center;
+        
+}
+
+#fa,i{
+    word-spacing: 0.5cm;    
+}
+#Gs{
+    background-color: aqua;
+    padding: 1em;
+    border-radius: 25px;
+    
+}.introfix{
+   background-color: burlywood;
+}
+#intro-text,#intro-text1{
+    
+    top: 50%;
+    left: 50%;
+    padding-left: 0.5cm;
+    background-color: rgba(50, 50, 65, 0.11);
+    padding-top: 7.6cm;
+    padding-bottom: 2.6cm;
+    text-decoration: solid;
+    color: aliceblue;
+}.bold{
+    text-align: center;
+    font-size: .6cm;
+}.contacts{
+    text-align: center;
+}.intropict,.contact {
+    padding: 5px 0px;
+    background-color: #403e3e;
+    color: aliceblue;
+   
+}.intropict h1{
+    text-decoration: bold ;
+    padding-left:2.7cm ;
+    padding-top: 2cm;
+    padding-bottom: 0.5cm;
+}.contact1 form{
+  text-align: right;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+.location,.a1-color,.about{
+    background-color: rgb(30, 28, 28);
+    padding-top: 1cm;
+   color: aliceblue;
+}.test h1{
+    text-align: left;
+    padding-left: 2cm;
+    padding-top: 2cm;
+}.pi {
+    float: right;
+    width: 33.33%;
+    padding-bottom: 4cm;
+  }
+  .location::after {
+    content: "";
+    clear: both;
+    display: table;
+  }.location {
+    display: block;
+  }
+  .pi {
+    flex: 33.33%;
+    padding-bottom: 4cm;
+  }form {
+    float: right;
+    width: 33.33%;
+    padding-bottom: 4cm;
+  }
+  .contact::after {
+    content: "";
+    clear: both;
+    display: table;
+  }.contact{
+    display: block;
+  }
+  form {
+    flex: 33.33%;
+    padding-bottom: 2cm;
+  }
+.t1, .t2 ,.t3{
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+  }
+footer{
+  background-color: rgb(54, 54, 11);
+  padding-top: 1cm;
+  
+}
+  #intro-text1{
+    text-align: right;
+  }#bold1{
+    text-align: right;
+    font-size: larger;
+  } .a1-content{
+    display: flex;
+    float: right;
+  }.a1-text{
+    padding-top: 1cm;
+ }.a1-content  img{
+  padding: 2rem;
+  height: 6cm;
+ }
+ .a1-content1{
+  display: flex;
+  float: left;
+}.a1-text1{
+  padding-top: 1cm;
+}.a1-content1  img{
+padding: 2rem;
+height: 6cm;
+}
+.why-contact{
+  background: blueviolet;
+  padding-top: 0.6cm;
+  text-align: center;
+  padding: 200px;
+}.row1{
+  padding-top:5cm ;
+}
